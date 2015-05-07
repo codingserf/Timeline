@@ -20,7 +20,6 @@ var jslibfiles = [
     'libs/socketio/1.3.4/socket.io.js',
     'libs/codingserf/util.js'
 ];
-
 var browserSync = require('browser-sync');
 
 // Static server
